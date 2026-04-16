@@ -32,6 +32,7 @@ Integration and Post Classification Filters of LULC data:
 Specialized repositories that focus on key environmental products:
 
 - [**Deforestation and Secondary Vegetation**](https://github.com/mapbiomas/brazil-deforestation-sec-vegetation)  
+- [**Degradação**](https://github.com/mapbiomas/brazil-degradation)
 - [**Fire**](https://github.com/mapbiomas/brazil-fire)
 - [**Soil**](https://github.com/mapbiomas/brazil-soil)
 - [**Water**](https://github.com/mapbiomas/mapbiomas-brazil-water/)
